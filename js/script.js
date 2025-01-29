@@ -1,5 +1,5 @@
 // 1
-let celsius = 25;
+let celsius = 1;
 let fahrenheit = (celsius * 9/5) + 32;
 console.log("Температура в Фаренгейтах: ", {fahrenheit});
 

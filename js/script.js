@@ -7,7 +7,7 @@ console.log("Температура в Фаренгейтах: ", fahrenheit);
 let daysInMonth = 30;
 let hoursInMonth = daysInMonth * 24;
 let minutesInMonth = hoursInMonth * 60;
-console.log("Годин у місяці: ",hoursInMonth, "Хвилин у місяці: ", minutesInMonth);
+console.log("Годин у місяці: ", hoursInMonth, "Хвилин у місяці: ", minutesInMonth);
 
 // 3
 let health = 100;

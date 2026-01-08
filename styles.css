@@ -1,27 +1,12 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin: 50px;
+.slider {
+  max-width: 400px;
+  margin: 0 auto;
 }
-
-#key {
-  font-size: 2em;
-  color: #2196f3;
-  margin: 20px 0;
+.slider__input {
+  width: 100%;
 }
-
-button {
-  padding: 10px 20px;
-  font-size: 1em;
-  cursor: pointer;
-  border-radius: 6px;
-  background-color: #2196f3;
-  color: white;
-  border: none;
-}
-
-canvas {
-  margin-top: 40px;
-  width: 80%;
-  max-width: 700px;
+.slider__image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
 }
